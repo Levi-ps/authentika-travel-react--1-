@@ -12,7 +12,7 @@ import Hero          from './pages/Hero'
 import About         from './pages/About'
 import Hotels        from './pages/Hotels'
 //import Destinations  from './pages/Destinations'
-//import MapSection    from './components/MapSection'
+
 import Vols          from './pages/Vols'
 import Activities    from './pages/Activities'
 import Excursions    from './pages/Excursions'
