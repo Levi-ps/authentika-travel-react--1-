@@ -4,7 +4,6 @@ Site web React pour l'agence de tourisme Authentika Travel.
 Tourisme authentique & durable dans le Sud tunisien.
 
 ---
-
 ## 🚀 Démarrage rapide
 
 ```bash
@@ -105,7 +104,6 @@ Toutes les couleurs sont dans `src/styles/variables.css` :
 - **Formations** → `src/data/formations.js`
 - **Témoignages** → `src/data/testimonials.js`
 
----
 
 ## 📱 Responsive
 
@@ -118,15 +116,9 @@ Breakpoints définis dans `variables.css` :
 
 ## ✅ Stack technique
 
-- **React 18** + **Vite 5**
 - **CSS Modules** (isolation des styles par composant)
 - **Google Fonts** : Playfair Display · Raleway · Tajawal
 - Aucune dépendance externe (zéro librairie UI tierce)
 
 ---
-
 ## 📞 Contact agence
-
-- **WhatsApp** : +216 XX XXX XXX
-- **Email** : contact@authentika-travel.tn
-- **Web** : authentika-travel.tn

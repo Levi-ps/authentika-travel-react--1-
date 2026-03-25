@@ -11,8 +11,8 @@ import BackToTop from './components/BackToTop'
 import Hero          from './pages/Hero'
 import About         from './pages/About'
 import Hotels        from './pages/Hotels'
-import Destinations  from './pages/Destinations'
-import MapSection    from './components/MapSection'
+//import Destinations  from './pages/Destinations'
+//import MapSection    from './components/MapSection'
 import Vols          from './pages/Vols'
 import Activities    from './pages/Activities'
 import Excursions    from './pages/Excursions'
@@ -39,8 +39,8 @@ export default function App() {
       <main>
         <About        t={t} lang={lang} />
         <Hotels       t={t} />
-        <Destinations t={t} />
-        <MapSection   t={t} />
+        
+        
         <Vols         t={t} />
         <Activities   t={t} lang={lang} />
         <Excursions   t={t} lang={lang} />
