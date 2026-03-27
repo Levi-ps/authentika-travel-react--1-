@@ -8,7 +8,6 @@ const MISSIONS = [
   { icon: '✈️', fr: 'Ouvrir le Sud au monde', en: 'Open the South to world', ar: 'فتح الجنوب على العالم' },
   { icon: '💡', fr: 'Innover pour l’avenir', en: 'Innovate for tomorrow', ar: 'الابتكار للمستقبل' }
 ];
-
 export default function About({ t, lang }) {
   return (
     <section id="about" className={styles.about}>
